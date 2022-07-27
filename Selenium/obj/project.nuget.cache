@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7SpNmBduUj7DrWX+N1YsCNueHz5thjtRDoxFvX0o4RR94x/G2XcoSVjiomS3+Bhw75DNW1JljiGlgvoaEhVtLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ardat\\RiderProjects\\Selenium\\Selenium\\Selenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ardat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\ardat\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.13400\\selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512"
+  ],
+  "logs": []
+}
